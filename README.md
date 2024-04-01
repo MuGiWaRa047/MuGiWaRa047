@@ -20,10 +20,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=plastic&logo=Instagram)](https://instagram.com/navajsama_47)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&style=plastic)](https://www.linkedin.com/in/navaj-sama-a61aa6258)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&style=plastic)](https://x.com/p1r473_047) 
+[![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=plastic&logo=hackthebox)](https://app.hackthebox.com/users/1452507) 
+[![THM](https://img.shields.io/badge/-TryHackMe-000000?logo=tryhackme&logoColor=red&style=plastic)](https://tryhackme.com/p/Anonnymos) 
 
 <!--
-[![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=plastic&logo=hackthebox)](https://app.hackthebox.com/profile/668328) 
-[![THM](https://img.shields.io/badge/-TryHackMe-000000?logo=tryhackme&logoColor=red&style=plastic)](https://tryhackme.com/p/Aftab700) 
 [![Discord URL](https://img.shields.io/badge/-Discord-000000?logo=discord&style=plastic)](http://discordapp.com/users/759615120820928513) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&style=plastic)](https://linkedin.com/in/aftab-sama)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=plastic&logo=Twitter)](https://twitter.com/AftabSama700) 
