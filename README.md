@@ -8,7 +8,7 @@
 ### 🔝 Top Repo
 <!-- [![Writeups](https://github-contributor-stats.vercel.app/api?username=MuGiWaRa047&limit=5&theme=dark&repo=Writeups&combine_all_yearly_contributions=true)](https://github.com/MuGiWaRa047/Writeups#readme)
 -->
-[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MuGiWaRa047&theme=blue-green&repo=Writeups&show_icons=true)](https://github.com/MugiWaRa047/Writeups#readme) 
+[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MuGiWaRa047&theme=blue-green&repo=Writeups&show_icons=true)](https://github.com/MugiWaRa047/Writeups) 
 
 
 ### 💻 Some Skills: 
