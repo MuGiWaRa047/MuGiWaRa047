@@ -1,13 +1,14 @@
 ## Hey There 😀. <br/><br/> 
 
 ![](https://github-readme-stats.vercel.app/api?username=MuGiWaRa047&theme=tokyonight&show_icons=true&count_private=true)<br/> <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGiWaRa047&theme=tokyonight&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuGiWaRa047&theme=tokyonight&show_icons=true&count_private=true&layout=compact)
+
 
 
 ### 🔝 Top Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuGiWaRa047&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-contributor-stats.vercel.app/api?username=MuGiWaRa047&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<!-- [![Writeups](https://github-contributor-stats.vercel.app/api?username=MuGiWaRa047&limit=5&theme=dark&repo=Writeups&combine_all_yearly_contributions=true)](https://github.com/MuGiWaRa047/Writeups#readme)
+-->
+[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MuGiWaRa047&theme=blue-green&repo=Writeups&show_icons=true)](https://github.com/MugiWaRa047/Writeups#readme) 
 
 
 ### 💻 Some Skills: 
