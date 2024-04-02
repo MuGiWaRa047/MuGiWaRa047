@@ -6,7 +6,7 @@
 
 
 ### 🔝 Top Repo
-[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MuGiWaRa047&limit=2&theme=dark&repo=Writeups)](https://github.com/MuGiWaRa047/Writeups#readme)
+[![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MuGiWaRa047&limit=2&theme=dark&repo=Writeups)](https://github.com/MuGiWaRa047/Writeups)
 <!--
 [![Writeups](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MuGiWaRa047&theme=blue-green&repo=Writeups&show_icons=true)](https://github.com/MugiWaRa047/Writeups#readme) 
 -->
